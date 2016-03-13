@@ -1,0 +1,10 @@
+::selection {
+    color: #FF0;
+}
+body {
+    font-family: sans-serif;
+    font-size: 14 pt;
+    line-height: 26 pt;
+    color: #000;
+    background-color: #FFF;
+}
