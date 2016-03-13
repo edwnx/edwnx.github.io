@@ -1,10 +1,10 @@
 ::selection {
-    color: #FF0;
+    background-color: #FF0;
 }
 body {
     font-family: sans-serif;
-    font-size: 14 pt;
-    line-height: 26 pt;
+    font-size: 14 px;
+    line-height: 26 px;
     color: #000;
     background-color: #FFF;
 }
