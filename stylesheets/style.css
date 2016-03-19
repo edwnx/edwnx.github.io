@@ -2,9 +2,13 @@
     background-color: #FF0;
 }
 body {
-    font-family: 'Source Sans Pro', sans-serif;
-    font-size: 14px;
-    line-height: 26px;
+    font-family: serif;
+    font-size: 16px;
+    line-height: 23px;
     color: #000;
     background-color: #FFF;
+}
+article {
+    max-width: 605px;
+    margin: auto;
 }
