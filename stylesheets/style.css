@@ -7,8 +7,9 @@ body {
     line-height: 23px;
     color: #000;
     background-color: #FFF;
+    text-align: center;
 }
 article {
     max-width: 605px;
-    margin: 0 auto;
+    margin: auto;
 }
